@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering, Geoinformatics (since 2018)
 - 🌱 I’m currently learning Geography, at the University of the Aegean
 - 💞️ I’m looking to collaborate on Geospatial Ananalysis
-- 📫 How to reach me geo21071@aegean.gr
+- 📫 How to reach me [epervoreios#1175 (Discord)]
 - 😄 Pronouns: Robot
 - ⚡ Fun fact: Your brain is constantly eating itself XD
 
