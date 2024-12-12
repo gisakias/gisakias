@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gisakias
-- 👀 I’m interested in Geoinformatics
+- 👀 I’m interested in Software Engineering, Geoinformatics (since 2018)
 - 🌱 I’m currently learning Geography, at the University of the Aegean
 - 💞️ I’m looking to collaborate on Geospatial Ananalysis
 - 📫 How to reach me geo21071@aegean.gr
