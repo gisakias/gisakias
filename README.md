@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software Engineering (since 2018), Geoinformatics (since 2021)
 - 🌱 I’m currently learning [Geography](https://geography.aegean.gr/pps/index.php), at the University of the Aegean, Hellas
 - 🔭 Curently learning about PHP applications, and R packages construction
-- 📫 How to reach me [epervoreios#1175 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]
+- 📫 How to reach me [epervoreios#1175 (Discord)]
 - 😄 Pronouns: Robot
 - ⚡ Fun fact: Your brain is constantly eating itself XD
 
