@@ -5,7 +5,7 @@
 - 🔭 Curently learning about PHP applications, and R packages construction
 - 📫 How to reach me [epervoreios#1175 (Discord)]
 - 😄 Pronouns: Robot
-- ⚡ Fun fact: Your brain is constantly eating itself XD
+- ⚡ Fun fact: [Your brain is constantly eating itself](https://www.sciencefocus.com/the-human-body/does-the-brain-eat-itself) XD
 
 # 💻 Tech Stack  
 
