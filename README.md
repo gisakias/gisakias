@@ -6,7 +6,7 @@
 - 😄 Pronouns: Robot
 - ⚡ Fun fact: Your brain is constantly eating itself XD
 
-![Gisakias's GitHub stats](https://github-readme-stats.vercel.app/api?username=gisakias&theme=dracula) <br>
+![Gisakias's GitHub stats](https://github-readme-stats.vercel.app/api?username=gisakias&theme=cobalt) <br>
 
 <!---
 gisakias/gisakias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
