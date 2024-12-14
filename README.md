@@ -1,6 +1,6 @@
 # 🎏 About me:  
 
-- 👀 I’m interested in Software Engineering (since 2018), Geoinformatics (since 2021)
+- 👀 I’m interested in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) (since 2018), [Geoinformatics](https://en.wikipedia.org/wiki/Geoinformatics) (since 2021)
 - 🌱 I’m currently learning [Geography](https://geography.aegean.gr/pps/index.php), at the University of the Aegean, Greece🌍
 - 🔭 Curently learning about PHP applications, and R packages construction
 - 📫 How to reach me [epervoreios#1175 (Discord)]
