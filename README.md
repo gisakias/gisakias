@@ -6,7 +6,8 @@
 - 😄 Pronouns: Robot
 - ⚡ Fun fact: Your brain is constantly eating itself XD
 
-#💻 Tech Stack 
+#💻 Tech Stack  
+
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![DuckDuckGo](https://img.shields.io/badge/duckduckgo-de5833?style=for-the-badge&logo=duckduckgo&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
