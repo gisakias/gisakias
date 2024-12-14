@@ -1,4 +1,4 @@
-#👽 About me:
+#🎏 About me:
 - 👀 I’m interested in Software Engineering (since 2018), Geoinformatics (since 2021)
 - 🌱 I’m currently learning [Geography](https://geography.aegean.gr/pps/index.php), at the University of the Aegean, Hellas
 - 🔭 Curently learning about PHP applications, and R packages construction
