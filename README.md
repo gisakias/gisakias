@@ -1,4 +1,4 @@
-#🎏 About me:  
+# 🎏 About me:  
 
 - 👀 I’m interested in Software Engineering (since 2018), Geoinformatics (since 2021)
 - 🌱 I’m currently learning [Geography](https://geography.aegean.gr/pps/index.php), at the University of the Aegean, Hellas
@@ -7,7 +7,7 @@
 - 😄 Pronouns: Robot
 - ⚡ Fun fact: Your brain is constantly eating itself XD
 
-#💻 Tech Stack  
+# 💻 Tech Stack  
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![DuckDuckGo](https://img.shields.io/badge/duckduckgo-de5833?style=for-the-badge&logo=duckduckgo&logoColor=white)
@@ -22,9 +22,11 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
 
-#📊 GitHub Stats  
+# 🎛️ Operating System
+
+# 📊 GitHub Stats  
 
 ![](https://github-readme-stats.vercel.app/api?username=gisakias&theme=transparent&show_icons=true)
 
