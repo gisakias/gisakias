@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway+Dots&duration=2000&pause=1000&color=44F71D&center=true&vCenter=true&multiline=true&width=500&height=200&lines=Hello+World!;I+am+gisakias...;...a+fullstack+developer...;and+data+analyst+%3A);Please+be+welcome+to+view+my+content!) 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway+Dots&duration=2000&pause=1000&color=44F71D&center=true&vCenter=true&multiline=true&width=500&height=200&lines=Hello+World!;I+am+gisakias...;...a+fullstack+developer...;and+data+analyst+%3A;Please+be+welcome+to+view+my+content!) 
 
 # 🎏 About me:  
 
