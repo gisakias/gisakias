@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway+Dots&duration=2000&pause=1000&color=44F71D&center=true&vCenter=true&multiline=true&width=435&lines=Hello+World!;I+am+gisakias...;...I+am+a+fullstack+developer...;and+data+analyst+%3A);Please+be+welcome+and+view+my+content!)](https://git.io/typing-svg)  
+
 # 🎏 About me:  
 
 - 👀 I’m interested in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) (since 2018), [Geoinformatics](https://en.wikipedia.org/wiki/Geoinformatics) (since 2021)
