@@ -1,5 +1,5 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=gisakias&repo=github-visitors-badge&countColor=%237B1E7A)  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&duration=2000&pause=200&color=44F71D&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hello+World!👋🌍;I+am+Geosmith...;...a+fullstack+developer...;and+data+analyst+%3AD;Please+be+welcome+to+view+my+content!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&duration=2000&pause=200&color=44F71D&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hello+World!👋🌍;I+am+Geosmith...;...a+fullstack+developer...;...and+data+analyst+%3AD;Please+be+welcome+to+view+my+content!)
 # 🎏 About me:  
 
 - 👀 I’m interested in [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) (since 2018), [Geoinformatics](https://en.wikipedia.org/wiki/Geoinformatics) (since 2021)
@@ -36,8 +36,9 @@
 
 # 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=gisakias&theme=transparent&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-profile-trophy.vercel.app/?username=gisakias&theme=transparent&no-frame=false&no-bg=true&margi-w=4)
+![](https://github-readme-stats.vercel.app/api?username=gisakias&theme=yeblu&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-profile-trophy.vercel.app/?username=gisakias&theme=yeblu&no-frame=false&no-bg=true&margi-w=4)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gisakias&layout=compact&theme=yeblu)
 
 <!---
 gisakias/gisakias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
