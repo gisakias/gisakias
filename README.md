@@ -38,7 +38,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=gisakias&theme=yeblu&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-profile-trophy.vercel.app/?username=gisakias&theme=yeblu&no-frame=false&no-bg=true&margi-w=4)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gisakias&layout=compact&theme=yeblu)
 
 <!---
 gisakias/gisakias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
